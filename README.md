@@ -1,13 +1,15 @@
 ## TERMINAL
-* *primeiro commit*
+### *primeiro commit*
 * git init
 * git branch -M main
 * git add .
-* git commit -m "um testiculo"
+* git commit -m "texto"
 * git remote add origin UrlDoGitHub
 * git push origin main
 
-* *manutencao*
+### *manutencao*
 * git add .
-* git commit -m "testiculo"
+* git commit -m "texto"
 * git push origin main
+
+### *via vscoede*
