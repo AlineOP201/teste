@@ -12,7 +12,7 @@
 * git commit -m "texto"
 * git push origin main
 
-### "clonar"
+### *clonar*
 git clone UriDoGitHub
 
 ### *via vscoede*
