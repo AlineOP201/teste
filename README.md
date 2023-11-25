@@ -13,11 +13,11 @@
 * git push origin main
 
 ### *clonar*
-git clone UriDoGitHub
+* git clone UriDoGitHub
 
 ### *atualizar a versão local*
-git pull
+* git pull
 
 ### *via vscode*
-git config --global user.name "John Doe"
-git config --global user.email johndoe@example.com
+* git config --global user.name "John Doe"
+* git config --global user.email johndoe@example.com
