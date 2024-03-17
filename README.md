@@ -8,7 +8,7 @@
 * git push origin main
 
 ### *manutencao*
-* git add .
+* git add  .
 * git commit -m "texto"
 * git push origin main
 
