@@ -13,7 +13,7 @@
 * git push origin main
 
 ### *clonar*
-* git clone UriDoGitHub
+* git clone [link do repositório do GitHub]
 
 ### *atualizar a versão local*
 * git pull
