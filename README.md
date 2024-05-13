@@ -7,7 +7,7 @@
 * git remote add origin UrlDoGitHub
 * git push origin main
 
-### Já existente
+### já existente
 * git remoto add origem UrlDoGitHub
 * git branch -M main 
 * git push -u origin main
