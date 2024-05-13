@@ -8,8 +8,8 @@
 * git push origin main
 
 ### já existente
-* git remoto add origem UrlDoGitHub
-* git branch -M main 
+* git remote add origin UrlDoGitHub
+* git branch -M main
 * git push -u origin main
 
 ### *manutencao*
