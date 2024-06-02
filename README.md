@@ -4,17 +4,19 @@
 * git branch -M main
 * git add .
 * git commit -m "texto"
-* git remote add origin UrlDoGitHub
+    ex.: git commit -m "primeiro commit"
+* git remote add origin [link do repositório do GitHub]
 * git push origin main
 
 ### já existente
-* git remote add origin UrlDoGitHub
+* git remote add origin [link do repositório do GitHub]
 * git branch -M main
 * git push -u origin main
 
 ### *manutencao*
 * git add  .
-* git commit -m "texto"
+* git commit -m "[texto]"
+    ex.: git commit -m "primeiro commit"
 * git push origin main
 
 ### *clonar*
@@ -24,5 +26,5 @@
 * git pull
 
 ### *via vscode*
-* git config --global user.name "John Doe"
-* git config --global user.email johndoe@example.com
+* git config --global user.name "[Nome do Usuário da Conta GitHub]"
+* git config --global user.email [E-mail da Conta GitHub]
