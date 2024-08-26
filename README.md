@@ -26,4 +26,4 @@
 
 ### *via vscode*
 * git config --global user.name "[nome do usuário da conta GitHub]"
-* git config --global user.email [e-mail da conta itHub]
+* git config --global user.email [e-mail da conta GitHub]
