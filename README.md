@@ -5,6 +5,7 @@
 * git add .
 * git commit -m "[texto]"
     * ex.: git commit -m "primeiro commit"
+* git remote add origin [link do repositório do GitHub]
 * git push origin main
 
 ### já existente
